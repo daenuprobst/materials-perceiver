@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 1.2.6
+_src_path: https://github.com/pawamoy/copier-pdm.git
+author_email: daenuprobst@gmail.com
+author_fullname: Daniel Probst
+author_username: daenuprobst
+copyright_date: '2024'
+copyright_holder: Daniel Probst
+copyright_holder_email: daenuprobst@gmail.com
+copyright_license: MIT License
+insiders: false
+project_description: A multimodal perceiver architecture for materials discovery.
+project_name: materials-perceiver
+python_package_command_line_name: materials-perceiver
+python_package_distribution_name: materials-perceiver
+python_package_import_name: materials_perceiver
+repository_name: materials-perceiver
+repository_namespace: daenuprobst
+repository_provider: github.com
+
